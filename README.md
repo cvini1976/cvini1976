@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Carlos Vinicios 👨🏻‍💻💻!
+## Hi there 👋, I'm Carlos Vinicios 👨🏻‍💻!
 
 I currently work in the healthcare sector managing the Pacs (Picture Communication and Archiving System) system.
 
@@ -15,12 +15,13 @@ I have postgraduate in Cybersecurity and Cybercrimes, a specialization in Data P
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,linux,windows,docker,python,git,github)](https://skillicons.dev)
 
 
-### 🤖 What i'm learning 
+### ⚙ What i'm learning 
 ![My Skills](https://cdn-icons-png.flaticon.com/128/2351/2351422.png) Data Science ![My Skills](https://img.icons8.com/?size=80&id=86530&format=png) Artificial intelligence ![My Skills](https://img.icons8.com/?size=80&id=VP80lzm6vg7u&format=png)Machine Learning
 
-### Where to find me!
+### 🔗 Where to find me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosviniciosferreira)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cvini1976)
-
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ##
