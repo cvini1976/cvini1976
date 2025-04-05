@@ -12,7 +12,7 @@ I have postgraduate in Cybersecurity and Cybercrimes, a specialization in Data P
 
 ### 🤖 Languages ​​and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,linux,windows,docker,python,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,linux,kali,windows,docker,python,git,github)](https://skillicons.dev)
 
 
 ### ⚙ What i'm learning 
