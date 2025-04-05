@@ -8,7 +8,7 @@ My areas of interested Cloud Computing, Information Security, Data Analysis, and
 
 My academic background they are in area of ​​Information Systems Development and Cyber ​​Defense.
 
-I have postgraduate in Cybersecurity and Cybercrimes, a specialization in Data Protection Officer, Management in Corporate Cybersecurity, Cloud Computing Architecture and Projects, Computer Network Security, IT, and Healthcare.
+I have postgraduate in Cybersecurity and Cybercrimes, a specialization in Data Protection Officer, Management in Corporate Cybersecurity, Cloud Computing Architecture and Projects, Computer Network Security and Healthcare Informatics.
 
 ### 🤖 Languages ​​and Technologies
 
